@@ -72,4 +72,5 @@ if st.button("Predict Placement Status"):
         st.error("⚠️ Prediction: **NOT PLACED**")
         st.info("Tip: Improve CGPA or add more Internships to increase chances.")
 
-    C:\Users\Shree\PycharmProjects\PythonProject1\PythonProject\.venv\student.py
+
+   
